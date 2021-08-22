@@ -1,0 +1,3 @@
+Check the Fire and water interaction.
+Check whether the display of fire and water change into air after being stepped.
+Check the message that we get from taking up water and when we extinguish the fire.

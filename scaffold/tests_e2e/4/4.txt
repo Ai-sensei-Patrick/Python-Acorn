@@ -1,0 +1,5 @@
+Check if e called the player stay in place.
+check if the player bump to wall it give out the message.
+check if the user can exit by using q input.
+Check if uppercase was given as input and the game still working.
+Check if the user give other letter that allowed in the game, what the game give out.

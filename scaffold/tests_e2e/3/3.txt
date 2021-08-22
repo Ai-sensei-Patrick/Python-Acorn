@@ -1,0 +1,5 @@
+Check the game teleport.
+If the player stepped on teleport it got teleported into other pad.
+Check if the player stepped on the teleport once again it still working.
+Check if the player use e in a teleport it will work.
+Check multiple display of teleport to work.

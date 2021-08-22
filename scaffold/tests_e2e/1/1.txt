@@ -1,0 +1,2 @@
+Check the X display keep the same. 
+When the player step on Y display the game end and if only 1 move made the ending should say move made instead of moves made.

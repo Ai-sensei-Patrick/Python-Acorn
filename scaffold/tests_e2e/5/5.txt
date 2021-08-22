@@ -1,0 +1,1 @@
+Check When the player end the game by step on fire with 0 number of water bucket what happen to the output of the game
